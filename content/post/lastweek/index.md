@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Прошедшая неделя"
+title: "Неделя с 13.03 по 18.03"
 subtitle: ""
 summary: ""
 authors: [admin]

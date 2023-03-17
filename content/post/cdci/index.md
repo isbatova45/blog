@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Непрерывная интеграция и непрерывное развертывание"
+title: "Непрерывная интеграция и непрерывное развертывание (СD/CI)"
 subtitle: ""
 summary: ""
 authors: [admin]
