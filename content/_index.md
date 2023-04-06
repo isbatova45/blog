@@ -14,20 +14,17 @@ sections:
       text:
   - block: features
     content:
-      title: Умения и способности
+      title: Навыки 
       items:
-        - name: С
+        - name: Копирайтинг
           description: 20%
-          icon: с-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+    
+        - name: Математический анализ
+          description: 40%
+        
+        - name: Омниканальное продвижение
+          description: 60%
+        
   - block: experience
     content:
       title: Experience
@@ -40,27 +37,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Студент
+          company: Российский университет дружбы народов
+          location: Moscow, Russia
+          date_start: '2022-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        
+        - title: Омниканальное продвижение контента
+          company: Omnidoctor
+          location: Moscow, Russia
+          date_start: '2022-04-15'
+          date_end: ''
+        
     design:
       columns: '2'
   - block: accomplishments
@@ -76,30 +64,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://mspo.msk.ru/
+          date_end: '2020-06-01'
+          date_start: '2020-03-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Московский студенческий педагогический отряд
+          title: Школа молодого вожатого 
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          
     design:
       columns: '2'
   - block: collection
